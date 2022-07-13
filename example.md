@@ -205,16 +205,35 @@ image: thirdweb-features-2.png
   - We will create a dApp to interact with the proposals on the DAO
 
 ---
+layout: quote
+---
+
+# Indexing the Blockchain
+
+The graph is a indexing and query protocol  used to efficently read data from the blockchain and exposes it using the GraphQL query API.
+
+---
 layout: section
 ---
+# What is indexing ? 
 
-# Retrieving data from Blockchain
-
-<!-- - Web 2
-  - API Rest
-  - GraphQL
-
-- Web 3
-  - GraphQL (The Graph) -->
+Indexing generaly refers to the process of turning unorderded data into a particular order that will maximize the efficiency of a query made aginst that data.
 
 ---
+---
+## How the Graph Works ?
+
+<img src="/thegraph-architecture.svg" style="height:70%; margin: 0 auto"/>
+
+Subgraphs can be composed into a global graph of all the world's public information. This data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.
+
+
+---
+
+# Web3 is a new stack for a radically better internet
+
+<!-- All data is stored and processed on open networks with verifiable integrity. The Graph makes querying this data fast, reliable, and secure. -->
+
+<video width="640" height="480" playsinline autoplay muted loop style="margin:0 auto;">
+<source src="What-are-the-newest-DeFi-projects-on-Everest.webm">
+</video>
